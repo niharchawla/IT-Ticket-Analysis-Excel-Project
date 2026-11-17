@@ -1,1 +1,2 @@
 # IT-Ticket-Analysis-Excel-Project
+This project presents an interactive dashboard for analyzing IT support ticket data. The primary objective is to optimize IT support operations by gaining insights into agent performance, resolution efficiency, and employee satisfaction. The analysis aims to provide a clear roadmap for transforming a reactive support function into a proactive and scalable operation.
